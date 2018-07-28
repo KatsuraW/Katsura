@@ -38,10 +38,10 @@ public class Main {
          a. Create a method, lengthOfString, that returns the length of a given string.
          b. Create a method, stringIsEqual, that takes in two strings and returns true if
             the strings are the same, otherwise return false.
-         Challenge :  Create a method that returns the index of the character "c" in any string.
+         Challenge :  Create a method that returns the index of the first character "c" in any string.
 
       TODO: Create a StringReader class.
-         a. Create a method, readFromUser, that reads the user's input.-
+         a. Create a method, readFromUser, that reads the user's input. (15 points, not tested by autograder). 
 
     */
 }
